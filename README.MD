@@ -11,3 +11,8 @@ It's a simple library api using Typescript, express and mongodb.
 # Observation
 
 You can find all routes into Imsomnia_library-api.json.
+
+# Athentication
+
+username: admin
+password: 1234
