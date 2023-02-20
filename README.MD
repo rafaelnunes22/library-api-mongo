@@ -6,7 +6,12 @@ It's a simple library api using Typescript, express and mongodb.
 
 1. Use 'npm install' to install dependencies.
 2. Create .env file.
-3. Use 'npm start' to start the project.
+3. Create mongo docker container.
+4. Use 'npm start' to start the project.
+
+# Mongo | Docker
+
+Execute command 'sudo docker run -d -p 27017:27017 --name mongodb-library mongo'
 
 # Observation
 
